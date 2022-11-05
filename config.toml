@@ -1,0 +1,25 @@
+baseURL = 'https://janw.name/'
+languageCode = 'en-us'
+title = 'janw.name'
+theme = 'janw'
+
+[params]
+subtitle = 'Personal Blog and Portfolio of Jan Wolff'
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'Blog'
+  url = '/posts/'
+  weight = 100
+[[menu.main]]
+  name = 'About Me'
+  url = '/about/'
+  weight = 110
+[[menu.main]]
+  name = 'Projects'
+  url = '/projects/'
+  weight = 120

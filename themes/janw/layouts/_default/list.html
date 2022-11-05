@@ -1,0 +1,21 @@
+
+{{ define "main" }}
+<main class="big-container">
+    <article>
+        <header>
+            <h1>{{.Title}}</h1>
+        </header>
+        {{.Content}}
+    </article>
+    <ul class="blogtoc">
+    {{ range .Pages }}
+        <li>
+            <a class="sub-container" href="{{.Permalink}}">
+                <span>{{.Date.Format "02. January 2006"}}</span><br>
+                <span>{{.Title}}</span>
+            </a>
+        </li>
+    {{ end }}
+    </ul>
+</main>
+{{ end }}

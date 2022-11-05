@@ -1,0 +1,35 @@
+<header>
+    <a class="title" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+    <span class="subtitle">{{ .Site.Params.subtitle }}</span>
+    <nav class="nav-container">
+        <ul>
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.main }}
+                {{ if .HasChildren }}
+                    <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                        <a href="#">
+                            {{ .Pre }}
+                            <span>{{ .Name }}</span>
+                        </a>
+                    </li>
+                    <ul class="sub-menu">
+                        {{ range .Children }}
+                            <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                                <a href="{{ .URL }}">{{ .Name }}</a>
+                            </li>
+                        {{ end }}
+                    </ul>
+                {{ else }}
+                    {{ $menu_item_url := .URL | relLangURL }}
+                    {{ $page_url:= $currentPage.RelPermalink | relLangURL }}
+                    <li class="{{ if eq $menu_item_url $page_url }}active{{ end }}">
+                        <a href="{{ .URL }}">
+                            {{ .Pre }}
+                            <span>{{ .Name }}</span>
+                        </a>
+                    </li>
+                {{ end }}
+            {{ end }}
+        </ul>
+    </nav>  
+</header>  

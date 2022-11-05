@@ -1,0 +1,26 @@
+
+{{ define "main" }}
+<main class="big-container">
+    <article>
+        <header>
+            <h1>{{.Title}}</h1>
+        </header>
+        {{.Content}}
+    </article>
+    <ul class="projecttoc">
+    {{ range .Pages }}
+        <li>
+            <a class="sub-container" href="{{.Permalink}}">
+                {{if .Params.teaser}}
+                <div class="img-container">
+                    <div class="img-container-child" style="background-image: url({{.Params.teaser}})">
+                    </div>
+                </div>
+                {{end}}
+                <span>{{.Title}}</span>
+            </a>
+        </li>
+    {{ end }}
+    </ul>
+</main>
+{{ end }}
