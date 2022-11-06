@@ -6,6 +6,11 @@ theme = 'janw'
 [params]
 subtitle = 'Personal Blog and Portfolio of Jan Wolff'
 
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
+
 [menu]
 [[menu.main]]
   name = 'Home'

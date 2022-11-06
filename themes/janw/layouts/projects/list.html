@@ -17,7 +17,7 @@
                     </div>
                 </div>
                 {{end}}
-                <span>{{.Title}}</span>
+                <span>{{.Title}} ({{ .Date.Format "2006" }})</span>
             </a>
         </li>
     {{ end }}
