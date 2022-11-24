@@ -12,7 +12,7 @@ build:
       - public
     expire_in: 1 week
 
-.deploy:
+deploy:
   image: debian:bullseye
   stage: deploy
   before_script:
@@ -24,6 +24,6 @@ build:
     - echo "$SSH_KNOWN_HOSTS" >> ~/.ssh/known_hosts
     - chmod 644 ~/.ssh/known_hosts
   script:
-    - rsync something somewhere
+    - rsync -avz --rsh="ssh -p 17295" ./public/ janw-name@janw.name:/var/www/new.janw.name/
   only:
     - main
