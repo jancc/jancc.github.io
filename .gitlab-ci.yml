@@ -3,10 +3,10 @@ stages:
   - deploy
 
 build:
-  image: klakegg/hugo:alpine
+  image: klakegg/hugo:alpine-ci
   stage: build
   script:
-    - hugo
+    - hugo -D
   artifacts:
     paths:
       - public
