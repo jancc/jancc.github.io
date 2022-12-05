@@ -24,3 +24,7 @@ subtitle = 'personal blog and portfolio of jan wolff'
   name = 'projects'
   url = '/projects/'
   weight = 120
+[[menu.main]]
+  name = 'tools'
+  url = '/tools/'
+  weight = 120
