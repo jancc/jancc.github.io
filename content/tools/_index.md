@@ -7,9 +7,9 @@ draft: true
 ## vma-extractor
 
 [Proxmox](https://www.proxmox.com/de/) uses some self-built format to store VM
-backups. It is implemented as a patch to their Qemu fork.
-
-This is a tool to extract VMA backups. It is written in Python3.
+backups. It is implemented as a patch to their Qemu fork. This is a tool to
+extract VMA backups. It is written in Python 3. Development is somewhat stalled
+because I'm currently not working with Proxmox.
 
 current version: 1.1.1
 

@@ -4,7 +4,7 @@ title = 'janw.name'
 theme = 'janw'
 
 [params]
-subtitle = 'personal blog and portfolio of jan wolff'
+subtitle = 'Personal Blog and Portfolio of Jan Wolff'
 
 [markup]
 [markup.goldmark]
@@ -17,14 +17,14 @@ subtitle = 'personal blog and portfolio of jan wolff'
   url = '/'
   weight = 1
 [[menu.main]]
-  name = 'blog'
+  name = 'Blog'
   url = '/posts/'
   weight = 100
 [[menu.main]]
-  name = 'projects'
+  name = 'Projects'
   url = '/projects/'
   weight = 120
 [[menu.main]]
-  name = 'tools'
+  name = 'Tools'
   url = '/tools/'
   weight = 120
