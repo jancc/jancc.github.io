@@ -14,3 +14,8 @@ a much more ambitious space-game project that never materialized.
 Fun fact: I originally made this in 2006 and re-discovered this in 2012. At the
 time it felt like a relic for forever ago. Now 2012 is much longer ago that
 2006 was at the time. lol
+
+## Download
+
+* [raum_race.zip](/files/raum_race/raum_race.zip)
+  ([SHA256](/files/raum_race/raum_race.zip.sha256))

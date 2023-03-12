@@ -4,20 +4,6 @@ date: 2022-10-01T18:46:54Z
 draft: true
 ---
 
-<pre style="width:fit-content;margin:auto;border:none;">
-                     .
-                    / V\
-                  / `  /
-                 <<   |
-                 /    |
-               /      |
-             /        |
-           /    \  \ /
-          (      ) | |
-  ________|   _/_  | |
-<__________\______)\__)
-</pre>
-
 Hi! I’m Jan (he/him). I'm a programmer by trade. I've majored in computer
 science and am currently working as a developer of e-commerce platforms.
 However, I am interested in many different things. Be it writing tools
@@ -38,4 +24,16 @@ You can find some of the stuff that I made on this website!
 [→](https://fediring.net/next?host=janw.name)
 | [I'm feeling lucky!](https://fediring.net/random)
 
-
+<pre style="width:fit-content;margin:auto;border:none;">
+                     .
+                    / V\
+                  / `  /
+                 <<   |
+                 /    |
+               /      |
+             /        |
+           /    \  \ /
+          (      ) | |
+  ________|   _/_  | |
+<__________\______)\__)
+</pre>

@@ -12,7 +12,7 @@ body {
     background-size: cover;
     background-attachment: fixed;
     font-family: Catamaran, sans-serif;
-    max-width: 40em;
+    max-width: 50em;
     margin: auto;
     padding: 0.5rem;
     hyphens: auto;
@@ -31,6 +31,10 @@ header .title {
 header .subtitle {
     display: block;
     font-size: 1.1em;
+}
+
+img {
+    width: 100%;
 }
 
 .big-container {
@@ -182,3 +186,10 @@ a:hover {
 		border-color: #5f5f5f;
 	}
 }
+
+.screenshot-grid {
+    display:grid;
+    grid-template-columns: auto auto auto;
+    gap: 0.5rem;
+}
+
