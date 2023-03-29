@@ -12,14 +12,14 @@ a collection of material I was able to salvage:
 
 ### Call of the Darkness
 
-<img src="/projects/pics/intermission_basement.png">
+<img src="/projects/pics/intermission_basement.webp">
 
 ### Intermission
 
-<img src="/projects/pics/intermission_menu.png">
-<img src="/projects/pics/intermission.png">
-<img src="/projects/pics/intermission_fields.png">
-<img src="/projects/pics/house_of_doom.png">
+<img src="/projects/pics/intermission_menu.webp">
+<img src="/projects/pics/intermission.webp">
+<img src="/projects/pics/intermission_fields.webp">
+<img src="/projects/pics/house_of_doom.webp">
 
 ### F.A.S.T. 2
 
@@ -27,5 +27,5 @@ a collection of material I was able to salvage:
 
 ### Cue
 
-<img src="/projects/pics/cue.png">
-<img src="/projects/pics/cue2.png">
+<img src="/projects/pics/cue.webp">
+<img src="/projects/pics/cue2.webp">
