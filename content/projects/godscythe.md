@@ -14,9 +14,9 @@ yourself in may be worse than confinement...
 
 ## Download
 
-* [godscythe.zip](/files/godscythe/godscythe.zip)
-  ([SHA256](/files/godscythe/godscythe.zip.sha256))
-  ([PGP signature](/files/godscythe/godscythe.zip.asc))
+* [godscythe.zip](https://files.janw.name/godscythe/godscythe.zip)
+  ([SHA256](https://files.janw.name/godscythe/godscythe.zip.sha256))
+  ([PGP signature](https://files.janw.name/godscythe/godscythe.zip.asc))
 
 ### Mirrors
 

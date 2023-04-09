@@ -13,5 +13,5 @@ músic. The second one works better in Wine.
 
 ## Download
 
-* [oea.zip](/files/oea/oea.zip)
-  ([SHA256](/files/oea/oea.zip.sha256))
+* [oea.zip](https://files.janw.name/oea/oea.zip)
+  ([SHA256](https://files.janw.name/oea/oea.zip.sha256))

@@ -38,5 +38,5 @@ detection in games :)
 
 ## Download
 
-* [be_smart_game.zip](/files/be_smart_game/be_smart_game.zip)
-  ([SHA256](/files/be_smart_game/be_smart_game.zip.sha256))
+* [be_smart_game.zip](https://files.janw.name/be_smart_game/be_smart_game.zip)
+  ([SHA256](https://files.janw.name/be_smart_game/be_smart_game.zip.sha256))

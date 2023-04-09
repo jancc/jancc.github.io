@@ -16,5 +16,5 @@ time it felt like a relic for forever ago. Now 2012 is much longer ago that
 
 ## Download
 
-* [raum_race.zip](/files/raum_race/raum_race.zip)
-  ([SHA256](/files/raum_race/raum_race.zip.sha256))
+* [raum_race.zip](https://files.janw.name/raum_race/raum_race.zip)
+  ([SHA256](https://files.janw.name/raum_race/raum_race.zip.sha256))

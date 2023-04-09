@@ -12,7 +12,8 @@ because I'm currently not working with Proxmox.
 
 current version: 1.1.1
 
-* [source code](/files/vma-extractor/vma-extractor-1.1.1.tar.gz) ([SHA256](/files/vma-extractor/vma-extractor-1.1.1.tar.gz.sha256))
+* [source code](https://files.janw.name/vma-extractor/vma-extractor-1.1.1.tar.gz)
+  ([SHA256](https://files.janw.name/vma-extractor/vma-extractor-1.1.1.tar.gz.sha256))
 * [git](https://git.janw.name/vma-extractor.git/)
 
 ---
@@ -26,6 +27,7 @@ files.
 
 current version: 0.2.0
 
-* [source code](/files/sheldond/sheldond-0.2.0.tar.gz) ([SHA256](/files/sheldond/sheldond-0.2.0.tar.gz.sha256))
+* [source code](https://files.janw.name/sheldond/sheldond-0.2.0.tar.gz)
+  ([SHA256](https://files.janw.name/sheldond/sheldond-0.2.0.tar.gz.sha256))
 * [git](https://git.janw.name/sheldond.git/)
 
