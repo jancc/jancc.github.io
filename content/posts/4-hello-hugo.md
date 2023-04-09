@@ -1,6 +1,6 @@
 ---
 title: "Hello Hugo"
-date: 2023-03-11T17:24:54+01:00
+date: 2023-04-09T17:24:54+01:00
 draft: true
 ---
 
@@ -34,7 +34,7 @@ From _first principles_?
 And so you do. And honestly, you should. Just to see that nothing really is magic.
 Most people who have programmed portions of the software that drives your daily workflow
 aren't magical geniuses, but rather people who've worked on building a thing. And hopefully
-they were pay well for building their thing. I remember the first time I build a 2D game from
+they were payed well for building their thing. I remember the first time I build a 2D game from
 the ground up in C. Built the rendering, audio and game logic all
 [using only SDL](https://www.libsdl.org/) to do the grunt work for different platforms. And you
 know what I did with that newfound knowledge? Build it again and again. To get it "just right".
