@@ -1,7 +1,6 @@
 ---
 title: "Legal Disclaimer"
 date: 2022-10-08T17:02:00Z
-draft: true
 ---
 
 ## Disclaimer

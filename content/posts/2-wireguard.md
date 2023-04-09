@@ -1,7 +1,6 @@
 ---
 title: "Setting up a WireGuard VPN"
 date: 2021-09-28T17:53:09Z
-draft: true
 ---
 
 In this post I want to give a quick rundown of the few steps required to use

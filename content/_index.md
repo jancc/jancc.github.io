@@ -1,7 +1,6 @@
 ---
 title: "Home"
 date: 2022-10-01T18:46:54Z
-draft: true
 ---
 
 Hi! I’m Jan (he/him). I'm a programmer by trade. I've majored in computer

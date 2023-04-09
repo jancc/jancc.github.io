@@ -1,7 +1,6 @@
 ---
 title: "Collecting the DLLs Required by an MSYS2 Binary"
 date: 2022-04-21T09:27:15Z
-draft: true
 ---
 
 After many unsuccessful attempts of writing a third blog post, I just wanted to

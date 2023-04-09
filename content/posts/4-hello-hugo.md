@@ -1,7 +1,6 @@
 ---
 title: "Hello Hugo"
 date: 2023-04-09T17:24:54+01:00
-draft: true
 ---
 
 I have migrated my homepage over to [the static site generator

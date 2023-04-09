@@ -2,7 +2,6 @@
 title: "Anti-Smoke Man"
 date: 2011-04-01T08:33:34Z
 teaser: /projects/besmart/screenshot104.png
-draft: true
 ---
 
 This game was made as a school project for an anti-smoking campaign. While

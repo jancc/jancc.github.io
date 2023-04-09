@@ -1,7 +1,6 @@
 ---
 title: "Ephemeral Downloads"
 date: 2019-09-19T09:27:04Z
-draft: true
 ---
 
 This is just a quick tipp. I added the following line to my `/etc/fstab` file:

@@ -1,7 +1,6 @@
 ---
 title: "Tools"
 date: 2022-12-05T22:19:44+01:00
-draft: true
 ---
 
 ## vma-extractor

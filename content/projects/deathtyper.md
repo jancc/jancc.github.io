@@ -2,7 +2,6 @@
 title: "Death Typer"
 date: 2014-01-01T17:21:46Z
 teaser: /projects/death_typer/shot001.png
-draft: true
 ---
 
 <iframe src="https://itch.io/embed/57063" width="100%" height="167" frameborder="0"><a href="https://klockenschooster.itch.io/deathtyper">Death Typer by klockenschooster</a></iframe>
